@@ -1,2 +1,2 @@
 # Harry-s-repository
-＃黑白棋项目
+＃cocos2d-x黑白棋项目
